@@ -1,4 +1,4 @@
 Firstly, You should create a ".gitignore" file
 And then, add the Java specific files and Maven specific files in ".gitignore" file
 Finally, ".idea/" is added in the ".gitignore file"
-Create Docker File and App file as a java
+Create hello World app and compile with Maven and run the app with docker
