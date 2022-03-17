@@ -1,5 +1,5 @@
 Firstly, You should create a ".gitignore" file
 And then, add the Java specific files and Maven specific files in ".gitignore" file
 Finally, ".idea/" is added in the ".gitignore file"
-Create hello World app and run on the latest version of ubuntu, 
-and then compile with Maven. Finally, run the app on docker 
+Create a hello world app and run on the latest-version of Ubuntu, then compile with Maven. 
+Then, run with docker images. 
